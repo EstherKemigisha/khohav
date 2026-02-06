@@ -1,0 +1,5 @@
+{
+  "buildCommand": "cd khohav && npm run build",
+  "outputDirectory": "khohav/dist",
+  "installCommand": "cd khohav && npm install"
+}

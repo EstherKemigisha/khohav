@@ -52,7 +52,7 @@
     </div>
   </section>
 
-  <!-- Checkout Section -->
+  
   <section id="checkout" class="checkout-section">
     <div v-if="checkoutProduct" class="checkout-container">
       <!-- Left Side: Payment Form -->
